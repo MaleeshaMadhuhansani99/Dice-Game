@@ -1,0 +1,96 @@
+body{
+  background-color: grey;
+  text-align: center;
+  background: url('https://res.cloudinary.com/damqsjjsn/image/upload/v1641672204/landscapewLight_wdbhno.png');
+}
+
+/* h1{
+  font-family: 'Dancing Script', cursive;
+  color: green;
+  width:60%;
+  /* margin: 2rem; */
+  /* font-size: 300%;
+} */ */
+
+.top{
+  width:50%;
+  text-align: center;
+  margin:auto;
+
+}
+
+p{
+  color: green;
+  font-size: 160%;
+  font-family: 'Indie Flower', cursive;
+  margin: 0;
+
+}
+
+.d{
+    font-family: 'Dancing Script', cursive;
+    font-size: 250%;
+    color: #C8B6E2;
+}
+.image{
+  height : 20%;
+  width : 20%;
+  padding: 10%;
+}
+
+.marks{
+  width: 100%;
+  margin: auto;
+
+
+}
+
+.marks1{
+  text-align: center;
+  background-size: 105%;
+  color: white;
+  margin-right: 75%;
+  display: inline-block;
+  background-image: url('https://t3.ftcdn.net/jpg/02/71/50/04/240_F_271500423_Ls3YOwFx6DqHy4nUvAV2P0G2UQwFeQaq.jpg');
+
+}
+
+.marks2{
+  text-align: center;
+  background-size: 105%;
+  color: white;
+  margin: auto;
+  display: inline-block;
+  background-image: url('https://t3.ftcdn.net/jpg/02/71/50/04/240_F_271500423_Ls3YOwFx6DqHy4nUvAV2P0G2UQwFeQaq.jpg');
+
+}
+
+button{
+  display: inline-block;
+  font-size: 400%;
+  cursor: pointer;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+  border-radius: 10%;
+  background-color: #7A86B6;
+  box-shadow: 0 50% #495C83;
+
+}
+
+button:hover {background-color: #A8A4CE}
+
+#identify{
+  color: white;
+}
+
+#player1{
+  /* font-size: 120%; */
+  color: purple;
+  text-align: center;
+}
+
+#player2{
+  /* font-size: 120%; */
+  color: purple;
+  text-align: center;
+}
